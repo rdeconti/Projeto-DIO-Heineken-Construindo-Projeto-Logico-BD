@@ -1,6 +1,6 @@
 # Projeto-DIO-Heineken-Construindo-Projeto-Logico-BD
 
-:spiral_calendar: Atualizado em 10 de Fevereiro de 2025 :heart:
+:spiral_calendar: Atualizado em 11 de Fevereiro de 2025 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
 
