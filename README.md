@@ -58,5 +58,6 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - [MySql Workbench](https://www.mysql.com/products/workbench/)
 
 ## Solução do desafio
+- Arquivos para criar BD, Incluir dados e Consultar dados 
 
 
